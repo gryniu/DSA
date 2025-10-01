@@ -1,1 +1,0 @@
-# tablice asocjacyjne / słowniki
