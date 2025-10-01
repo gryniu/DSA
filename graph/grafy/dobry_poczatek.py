@@ -1,0 +1,1 @@
+#JAKI jest dobry poczatek w grafie??? - odwracanie krawędzi, spojne skladowe
